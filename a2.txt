@@ -1,1 +1,2 @@
-this is a2 in master branchthis is a2 in b branch
+this is a2 in master branch
+this is a2 in b branch
